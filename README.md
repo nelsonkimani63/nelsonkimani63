@@ -12,11 +12,16 @@
   <a href="https://twitter.com/nelson_guya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=nelsonkimani63&style=flat-square&color=blue" alt="profile-views" width="100px" height="30"/>
+<h1>
+  Hello!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px" height="50"/>
+</h1>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=nelsonkimani63&style=flat-square&color=blue" align="center" alt="profile-views" width="100px"/>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
-</h1>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
