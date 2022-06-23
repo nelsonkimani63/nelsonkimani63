@@ -67,3 +67,6 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ---
 
 ### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
