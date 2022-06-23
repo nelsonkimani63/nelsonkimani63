@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px" height="50"/>
 </h1>
 </div>
-
+ 
 
 
 
@@ -69,8 +69,4 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays for Programming Newbies](https://medium.com/codex/javascript-arrays-for-programming-newbies-ec269ec0bbaa?source=rss-a8c0e09391f1------2)
-- [JavaScript Function and For-loops — More Struggles](https://medium.com/codex/javascript-function-and-for-loops-more-struggles-89ee21ffc0?source=rss-a8c0e09391f1------2)
-- [How to Resize Background Image: A Newbie’s Struggles](https://nelsonkimani63.medium.com/how-to-resize-background-image-what-i-learned-45ea077e0265?source=rss-a8c0e09391f1------2)
-- [The Very Beginning of Writing Code. —  A Weekly Series.](https://nelsonkimani63.medium.com/the-very-beginning-of-writing-code-a-weekly-series-a68624668972?source=rss-a8c0e09391f1------2)
 <!-- BLOG-POST-LIST:END -->
