@@ -34,7 +34,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 
 - :telescope: I’m working as a Software Developer, using various frontend and backend technologies.
 
-- :seedling: I also a Technical Writer and open source documentation contributor.
+- :seedling: I am also a Technical Writer and open source documentation contributor.
 
 - :zap: In my free time, I solve programming challenges on Leetcode and Hackerrank and also write articles on Medium.
 
